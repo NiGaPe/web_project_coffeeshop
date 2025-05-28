@@ -160,21 +160,21 @@
   line-height: 30px;
 }
 
-.recepies__videos {
+.recipies__videos {
   display: flex;
   justify-content: center;
   gap: 40px;
   margin-bottom: 215px;
 }
 
-.recepies__iframe {
+.recipiess__iframe {
   width: 480px;
   height: 273px;
   border: none;
   margin-bottom: 24px;
 }
 
-.recepies__video-caption {
+.recipies__video-caption {
   display: flex;
   justify-content: space-between;
   margin: 0;
@@ -185,10 +185,10 @@
   line-height: 30px;
 }
 
-.recepies__video-title {
+.recipies__video-title {
   margin: 0;
 }
 
-.recepies__video-time {
+.recipies__video-time {
   margin: 0;
 }
