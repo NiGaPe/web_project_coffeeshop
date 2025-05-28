@@ -67,6 +67,7 @@
 .header__footer {
   display: flex;
   justify-content: space-between;
+  margin-top: auto;
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
@@ -78,8 +79,14 @@
 .header__timetable {
   display: flex;
   flex-direction: column;
-  position: relative;
-  left: 80px;
+  margin-left: 80px;
+  margin-bottom: 30px;
+}
+
+.header__address {
+  margin-top: auto;
+  margin-right: 80px;
+  margin-bottom: 30px;
 }
 
 .header__paragraph {
