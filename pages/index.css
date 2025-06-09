@@ -223,6 +223,9 @@
   display: flex;
   flex-direction: column;
   width: 100%;
+  border: none;
+  margin: 0;
+  padding: 0;
 }
 
 .form__label {
