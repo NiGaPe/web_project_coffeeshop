@@ -20,6 +20,10 @@
   margin-right: 80px;
 }
 
+.nav__link:hover {
+  color: #2f80ed;
+}
+
 .nav__item {
   font-family: "Inter";
   font-style: normal;
